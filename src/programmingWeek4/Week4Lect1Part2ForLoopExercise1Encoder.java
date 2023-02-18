@@ -23,6 +23,6 @@ public class Week4Lect1Part2ForLoopExercise1Encoder {
         		System.out.print(" ");
         	}
         }
-	}
+	} // comment 
 
 }
