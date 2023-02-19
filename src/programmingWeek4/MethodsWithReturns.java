@@ -16,6 +16,9 @@ public class MethodsWithReturns {
 		System.out.println(biggestNumber(15, 900));
 	} // end of main method
 
+	
+	// we can create functions outside of the main method
+	
 /**
  * this is going to return the biggest number 
  * @param num1
