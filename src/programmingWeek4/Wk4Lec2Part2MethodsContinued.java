@@ -5,8 +5,6 @@ import java.util.Scanner;
 
 public class Wk4Lec2Part2MethodsContinued {
 
-	
-	
 		public static void main(String[] args) {
 
 		
