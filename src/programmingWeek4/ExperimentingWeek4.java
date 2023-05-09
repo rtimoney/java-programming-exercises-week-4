@@ -15,7 +15,7 @@ public class ExperimentingWeek4 {
 
 		
 		
-		// GAP
+		// GAP 
 	
 		public static void yearYouTurn100() {
 			int currentAge, currentYear, yearTurning100;
