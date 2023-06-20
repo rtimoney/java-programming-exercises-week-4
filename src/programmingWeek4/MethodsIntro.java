@@ -14,7 +14,6 @@ import java.util.Calendar;
  *
  */
 public class MethodsIntro {
-	
 
 	/**
 	 * the main method
