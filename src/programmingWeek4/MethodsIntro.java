@@ -1,7 +1,3 @@
-/**
- * 
- */
-	
 package programmingWeek4;
 
 import java.util.Date;
