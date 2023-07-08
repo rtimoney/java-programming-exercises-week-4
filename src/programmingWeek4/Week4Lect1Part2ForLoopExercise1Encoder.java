@@ -6,7 +6,7 @@ public class Week4Lect1Part2ForLoopExercise1Encoder {
 
 	public static void main(String[] args) {
 		// prompt the user for their name 
-		// notes need a scanner 
+		// notes need a scanner  
 		// need a variable to store the name 
 		
 		String name;
