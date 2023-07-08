@@ -4,7 +4,7 @@ public class MethodsWithReturns {
 	
 	public static void main(String[] args) {
 
-		int bigNum;
+		int bigNum; 
 		
 		//first output
 		bigNum = biggestNumber(3, 4);
